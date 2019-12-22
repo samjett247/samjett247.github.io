@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Sam Jett</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Sam Jett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About the Website My name is Sam Jett. I recently graduated from the University of Oklahoma with my MS in mechanical engineering, with research focus on heart valve biomechanics and microstructural imaging. Since graduating, I&amp;rsquo;ve been working as a data scientist with a biomedical device startup called Modulim.
+This website documents the projects and activities I&amp;rsquo;m passionate about; it serves as a portfolio of my experiences and interests. By reading through it, I hope that you will learn a little bit more about what I have done and what I want to do.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>/home/activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Blog</title>
+      <link>/home/blog/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/blog/</guid>
+      <description>My friend Zach Schuermann and I recently started a blog called Open_Bits. We plan to use it to share:
+ Technical solutions to software issues we have encountered
+ Clarifications of common processes in using and modifying software
+ Other topics that interest or intrigue us 😄
+  Click here to check out the blog</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acknowledgment</title>
+      <link>/home/acknowledgements/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/acknowledgements/</guid>
+      <description>I would like to acknowledge many people for their assistance and support.
+ My parents and friends, because I wouldn&amp;rsquo;t have made it where I am today without them.
+ Matt McCraney, for believing in me and helping me to achieve my goals inside and outside of Crossfit.
+ Dr. Chung-Hao Lee, for mentoring my research and his constant passion to help me learn and grow.
+ Zach Schuermann, for his generous consulting on any computer-related issue and his help with this website.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

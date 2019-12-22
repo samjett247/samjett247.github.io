@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Sam Jett</title>
+    <link>/talk/</link>
+    <description>Recent content in Talks on Sam Jett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Integrated Opto-Mechanical System for Quantification of Dynamic Microstructure and Mechanics of Heart Valve Leaflets</title>
+      <link>/talk/sb3c/</link>
+      <pubDate>Wed, 26 Jun 2019 11:00:00 -0700</pubDate>
+      
+      <guid>/talk/sb3c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study on the Spatial Variance in the Mechanics and Microstructure of Heart Valves</title>
+      <link>/talk/wcb/</link>
+      <pubDate>Mon, 09 Jul 2018 11:30:00 -0700</pubDate>
+      
+      <guid>/talk/wcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biaxial Mechanical Testing and Constitutive Model Development of Atrioventricular Valve Leaflets</title>
+      <link>/talk/emi/</link>
+      <pubDate>Thu, 31 May 2018 13:00:00 -0700</pubDate>
+      
+      <guid>/talk/emi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

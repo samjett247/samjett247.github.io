@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on Sam Jett</title>
+    <link>/activities/</link>
+    <description>Recent content in Activities on Sam Jett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 07 Sep 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adventure</title>
+      <link>/activities/adventure/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/activities/adventure/</guid>
+      <description>Running, hiking, camping, kayaking, paddleboarding, rock climbing, mountain biking, and all sorts of outdoor recreation.</description>
+    </item>
+    
+    <item>
+      <title>Crossfit</title>
+      <link>/activities/crossfit/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/activities/crossfit/</guid>
+      <description>Exercising with my friends, moving how my body was built to move, and belonging to a group.</description>
+    </item>
+    
+  </channel>
+</rss>

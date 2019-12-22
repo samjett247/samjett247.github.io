@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BBDL on Sam Jett</title>
+    <link>/tags/bbdl/</link>
+    <description>Recent content in BBDL on Sam Jett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/bbdl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microstructural Imaging</title>
+      <link>/project/microstructural_imaging/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/microstructural_imaging/</guid>
+      <description>Quantifying the orientation and spread of collagen fibers in tissue through a polarization-based imaging system.</description>
+    </item>
+    
+    <item>
+      <title>An investigation of regional variations in the biaxial mechanical properties and stress relaxation behaviors of porcine atrioventricular heart valve leaflets</title>
+      <link>/publication/regional_testing_pub/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/regional_testing_pub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation of the anisotropic mechanical properties and anatomical structure of porcine atrioventricular heart valves</title>
+      <link>/publication/biax_testing_pub/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/biax_testing_pub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomechanics and Biomaterials Design Lab</title>
+      <link>/project/bbdl_link/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/bbdl_link/</guid>
+      <description>A link to the homepage of the Biomechanics and Biomaterials Design Lab.</description>
+    </item>
+    
+    <item>
+      <title>Heart Valve Biaxial Mechanical Testing</title>
+      <link>/project/biax_testing/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/biax_testing/</guid>
+      <description>Characterizing the mechanics of heart valve leaflet tissue through biaxial mechanical testing.</description>
+    </item>
+    
+    <item>
+      <title>A Study on the Spatial Variance in the Mechanics and Microstructure of Heart Valves</title>
+      <link>/talk/wcb/</link>
+      <pubDate>Mon, 09 Jul 2018 11:30:00 -0700</pubDate>
+      
+      <guid>/talk/wcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biaxial Mechanical Testing and Constitutive Model Development of Atrioventricular Valve Leaflets</title>
+      <link>/talk/emi/</link>
+      <pubDate>Thu, 31 May 2018 13:00:00 -0700</pubDate>
+      
+      <guid>/talk/emi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

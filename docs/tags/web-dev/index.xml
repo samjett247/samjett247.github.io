@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web-Dev on Sam Jett</title>
+    <link>/tags/web-dev/</link>
+    <description>Recent content in Web-Dev on Sam Jett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Student Teacher Evaluation Visualization (STEV) at OU</title>
+      <link>/project/student_reviews/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/student_reviews/</guid>
+      <description>Built a web app to allow students to visualize OU course evaluations and professor reviews.</description>
+    </item>
+    
+    <item>
+      <title>Commuter App</title>
+      <link>/project/commuter_app/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/commuter_app/</guid>
+      <description>Created a web app to help people plan their daily commute.</description>
+    </item>
+    
+    <item>
+      <title>Website for Organic Accessories</title>
+      <link>/project/organic_accessories/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/organic_accessories/</guid>
+      <description>I developed a static website using the Hugo framework to help market for Organic Accessories, my mother&amp;rsquo;s business.</description>
+    </item>
+    
+  </channel>
+</rss>

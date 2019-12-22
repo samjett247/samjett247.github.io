@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sam Jett</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Sam Jett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microstructural Imaging</title>
+      <link>/project/microstructural_imaging/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/microstructural_imaging/</guid>
+      <description>Quantifying the orientation and spread of collagen fibers in tissue through a polarization-based imaging system.</description>
+    </item>
+    
+    <item>
+      <title>Student Teacher Evaluation Visualization (STEV) at OU</title>
+      <link>/project/student_reviews/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/student_reviews/</guid>
+      <description>Built a web app to allow students to visualize OU course evaluations and professor reviews.</description>
+    </item>
+    
+    <item>
+      <title>Commuter App</title>
+      <link>/project/commuter_app/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/commuter_app/</guid>
+      <description>Created a web app to help people plan their daily commute.</description>
+    </item>
+    
+    <item>
+      <title>Website for Organic Accessories</title>
+      <link>/project/organic_accessories/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/organic_accessories/</guid>
+      <description>I developed a static website using the Hugo framework to help market for Organic Accessories, my mother&amp;rsquo;s business.</description>
+    </item>
+    
+    <item>
+      <title>Biomechanics and Biomaterials Design Lab</title>
+      <link>/project/bbdl_link/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/bbdl_link/</guid>
+      <description>A link to the homepage of the Biomechanics and Biomaterials Design Lab.</description>
+    </item>
+    
+    <item>
+      <title>Heart Valve Biaxial Mechanical Testing</title>
+      <link>/project/biax_testing/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/biax_testing/</guid>
+      <description>Characterizing the mechanics of heart valve leaflet tissue through biaxial mechanical testing.</description>
+    </item>
+    
+    <item>
+      <title>Wind Tunnel Development</title>
+      <link>/project/wind_tunnel/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/wind_tunnel/</guid>
+      <description>Developing a robust and low-cost wind tunnel for student research use at the University of Oklahoma.</description>
+    </item>
+    
+  </channel>
+</rss>

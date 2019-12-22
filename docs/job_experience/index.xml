@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job_experiences on Sam Jett</title>
+    <link>/job_experience/</link>
+    <description>Recent content in Job_experiences on Sam Jett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/job_experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modulim</title>
+      <link>/job_experience/modulim/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/job_experience/modulim/</guid>
+      <description>Associate Research and Development Scientist at Modulim.</description>
+    </item>
+    
+    <item>
+      <title>Internship at American Fidelity</title>
+      <link>/job_experience/american_fidelity/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/job_experience/american_fidelity/</guid>
+      <description>Developing scripts in VB code through UIPath and implementing machine learning algorithms in DataRobot to improve and automate business processes.</description>
+    </item>
+    
+    <item>
+      <title>Internship at Northrop Grumman</title>
+      <link>/job_experience/northrop_grumman/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/job_experience/northrop_grumman/</guid>
+      <description>Work on multiple projects in the aerospace and defense industry.</description>
+    </item>
+    
+  </channel>
+</rss>

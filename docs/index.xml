@@ -1,0 +1,206 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Jett on Sam Jett</title>
+    <link>/</link>
+    <description>Recent content in Sam Jett on Sam Jett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modulim</title>
+      <link>/job_experience/modulim/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/job_experience/modulim/</guid>
+      <description>&lt;p&gt;I started working as an R&amp;amp;D Scientist with Modulim in July, 2019. The company&amp;rsquo;s main product, the &lt;strong&gt;Clarifi&lt;/strong&gt; imaging system, uses a series of modulated illumination patterns to extract maps of 5 oxygenation biomarkers. It is our belief that information from these maps can help to provide earlier diagnosis and prevention of &lt;em&gt;Diabetic Foot Ulcers&lt;/em&gt;, a dangerous condition that can lead to limb amputation.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m excited to support R&amp;amp;D at Modulim as we work with physicians and hospitals to help draw conclusions from clinical images and trials. We hope that the imaging device, employing the unique &lt;em&gt;SFDI&lt;/em&gt; technology, will provide novel insights into the causes for diabetic foot ulcers, and help to prevent the onset of these quite literally crippling diseases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Integrated Opto-Mechanical System for Quantification of Dynamic Microstructure and Mechanics of Heart Valve Leaflets</title>
+      <link>/talk/sb3c/</link>
+      <pubDate>Wed, 26 Jun 2019 11:00:00 -0700</pubDate>
+      
+      <guid>/talk/sb3c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microstructural Imaging</title>
+      <link>/project/microstructural_imaging/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/microstructural_imaging/</guid>
+      <description>&lt;p&gt;The mitral and tricuspid heart valves are composed of leaflets, or thin flaps of membranous tissue, anchored proximally to a fibrous ring known as the valve annulus and distally to a series of chordae tendineae. These leaflets coapt, or come together, during systole to prevent the passage of blood. During diastole, the leaflets recede into the ventricles to allow passage of blood. This leaflet motion is repeated each heartbeat, leading to profound cyclic loading and cyclic strain on the valve tissue. To handle the imposed loading, the heart valve leaflets are composed of a fibrous network of collagen fibers. These fibers are responsible for the anisotropy, or directional-dependence, of the leaflet tissue’s mechanical behavior. Briefly, the local orientations of the fiber dictate the direction of maximum stiffness in the heart valve leaflets. However, part of the versatility and utility of the collagen fibers in bearing load arises from the fibers’ ability to realign to bear the necessary load. That is to say, the orientations of the fibers are likely to change under applied loading. Although previous groups have examined the collagen fibers in an unloaded state, no prior studies have examined and quantified how these local fiber orientations can change under applied loading. Our study seeks to quantify the changes in local orientations of collagen fibers in heart valve leaflets under dynamic applied loading, and to present this data via colormaps like the one shown above.&lt;/p&gt;
+
+&lt;p&gt;To examine these collagen fibers, our group built a  system reliant upon a novel technique known as &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4399688/&#34; target=&#34;_blank&#34;&gt;“polarized Spatial Frequency Domain Imaging”&lt;/a&gt;. This technique capitalizes on the birefringence, or polarization-dependent, refractive response of the collagen fibers. To capture the birefringence, our system uses a projector, a polarizer, and a 5 MegaPixel CCD camera to capture high resolution images of the testing sample at various polarization angles. We then analyze the images and compute a model fit comparing the intensity recorded at each pixel to the polarization angle. From this fit, we are able to discern the local collagen fiber orientation. These predicted orientations can then be plotted on colormaps like the ones shown above. Our collagen fiber predictions for bovine tendon samples, with spatially homogeneous collagen structures, are shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/psfdi_predictions.jpeg&#34; alt=&#34;tendon collagen&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project has been a foray into imaging systems and has afforded me a glimpse into the complexity and depth of the scientific imaging field. Through research on advanced imaging techniques like spatial frequency domain imaging, rasterized light-scattering, and polarization microscopy, I’ve realized how much data can be gained about a tissue or biomaterial by simply “looking at it” in an appropriate way. Our data analysis pipeline was implemented in &lt;strong&gt;Python&lt;/strong&gt;, with support from open-source software like &lt;strong&gt;GitHub&lt;/strong&gt;, Anaconda, NumPy, Matplotlib, and many other libraries for Python. I developed the testing scripts for the system through &lt;strong&gt;LabView&lt;/strong&gt; using USB communication protocol to send signals to our projector. Through developing the pipeline, I also learned to refactor code into discrete functions to make a more robust and clearer program.  We expect to publish an article about our system and the data obtained. For more information and to see a poster about the project, I&amp;rsquo;ve attached a recent presentation below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Teacher Evaluation Visualization (STEV) at OU</title>
+      <link>/project/student_reviews/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/student_reviews/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ou.evals.info&#34; target=&#34;_blank&#34;&gt;Link to Website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After each semester, OU students fill out course evaluations for each of their courses and professors. The review information is publicly available, but is shared in pdf files on &lt;a href=&#34;http://www.ou.edu/provost/course-evaluation-data&#34; target=&#34;_blank&#34;&gt;the OU website&lt;/a&gt;. This makes it very difficult for prospective students to use the course reviews to inform their enrollment decisions, because parsing through the hundreds of posted pdf files to find the desired information about the course or instructor is nearly impossible. My friends Zach Schuermann, Joe Lovoi, and I have scraped this data into a database and built a web app to allow much easier visualization of the course ratings and comparison between courses.  We&amp;rsquo;re storing the data in &lt;strong&gt;MongoDB&lt;/strong&gt;, with api web servers built in &lt;strong&gt;Flask&lt;/strong&gt; and the frontend visualization framework developed in &lt;strong&gt;React&lt;/strong&gt;. Keep up with our status on &lt;a href=&#34;https://github.com/stev-ou&#34; target=&#34;_blank&#34;&gt;our Github page&lt;/a&gt;. Our end goal is to be able to integrate our developed web app with the OU website and to give students easier access to this valuable data.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Commuter App</title>
+      <link>/project/commuter_app/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/commuter_app/</guid>
+      <description>
+
+&lt;p&gt;From August to December of 2018, I worked at an internship in the Oklahoma City area. The internship provided many opportunities for developing scripts in a process automation program called UIPath and in VBA; However, the internship also showed me just how demoralizing and frustrating long commutes can be &amp;ndash; my commute typically varied from about 30 minutes to an hour. Fortunately, this internship had flexible hours, so I was allowed to choose when I wanted to drive to/from work. But I relied on heuristics to decide the best commute time, and I felt this heuristic-based approach might be inaccurate. So I decided to build an app to provide users with quantitative data concerning how their commute time varied depending on when they left. I used one of the Google Maps APIs to obtain my data, and built an app to display this data in Flask with Python. Please check the app out via the link below if you&amp;rsquo;re interested, I hope it can help.&lt;/p&gt;
+
+&lt;h2 id=&#34;commuter-app-https-thecommuterapp-com&#34;&gt;&lt;a href=&#34;https://thecommuterapp.com&#34; target=&#34;_blank&#34;&gt;Commuter App&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;
+For an example, the below image shows the analysis for my commute to work for the internship last semester.
+&lt;img src=&#34;/img/projects/sam_commute.jpeg&#34; alt=&#34;sam_commute&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website for Organic Accessories</title>
+      <link>/project/organic_accessories/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/organic_accessories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation of regional variations in the biaxial mechanical properties and stress relaxation behaviors of porcine atrioventricular heart valve leaflets</title>
+      <link>/publication/regional_testing_pub/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/regional_testing_pub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adventure</title>
+      <link>/activities/adventure/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/activities/adventure/</guid>
+      <description>&lt;p&gt;I appreciate all kinds of adventures. Preferably with friends and my dog, Remi. The pictures above are from a camping trip to the Rocky Mountain National Park in Colorado and from a hike up to King Arthur’s Seat in Edinburgh, Scotland. I don’t want this page to be a list of the places I have been or the adventures I’ve had, but rather I want it to show what I take from these outdoor experiences, why I think everyone should get outside and go do something every once in a while.&lt;/p&gt;
+
+&lt;p&gt;Standing on top of a mountain, looking out as mist rises over a still lake, or scuba diving above a sleeping sea turtle can help show a person how small he/she is. Experiences like these help me get perspective. They allow me to realize that the world around us is bigger, grander, and deserving of more consideration than the internal. They help me to see that everything will go on after our time is over, and that’s okay. The best thing we can do is just to enjoy and appreciate our time here, to be kind to the people around and to smile and laugh and appreciate the gift of life. I think the messages and the drive coming from other sources – TV shows, advertisements, and our internal voice – provide a message that everything is about the individual. Individualized diets, individualized religion, and personalized considerations push humans toward believing that, if they aren’t omnipotent, they at least deserve the sole attention of the those around them. This causes a lot of anger, sadness, and depression as the actions of others and the processes of the world inevitably don’t focus on them. Adventures and quality time spent in the outdoors help to remind me that I am dust, and to dust I shall return. And that’s okay. In some odd way, knowledge of our impermanence helps me appreciate today.&lt;/p&gt;
+
+&lt;p&gt;Going on adventures brings people together. Exploring the unknown or embarking on a quest requires people to band together to accomplish what they couldn’t alone. Shared struggle, shared hardship, and shared victories help us to relate to others on a fundamental level. I have come to appreciate the strength and the scars of my friends by trying something with them, by admitting we want to face a challenge together and by attempting it. This admission leads to a sort of shared vulnerability and is a way to build honesty and truth in friendships. And a life full of genuine, open, and supportive friendships is a happy life.&lt;/p&gt;
+
+&lt;p&gt;So if you haven’t felt the tremor of fear on the roof of your stomach as you watch a storm roll in, felt a chill wet wind at your face while standing on the top of a mountain, grab a friend and get out and try it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An investigation of the anisotropic mechanical properties and anatomical structure of porcine atrioventricular heart valves</title>
+      <link>/publication/biax_testing_pub/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/biax_testing_pub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomechanics and Biomaterials Design Lab</title>
+      <link>/project/bbdl_link/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/bbdl_link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossfit</title>
+      <link>/activities/crossfit/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/activities/crossfit/</guid>
+      <description>&lt;p&gt;I have been doing crossfit workouts since I was 13 years old. My dad and I, along with some local neighborhood kids, would go out to the track and do the free workout posted on crossfit.com. We made do with whatever equipment we could find, sometimes buying cheap sports equipment from Craigslist. I enjoyed the daily novelty of the workouts, the wonderful feeling after pushing my body, and the time I got to spend with my friends. We eventually moved to a globo-gym so that we could do the prescribed weight training with actual weights (our former weights were cinderblocks or the odd piece of football equipment left on the track). I first found a gym called Crossfit Bolt by hacking my way through a half mile of brush and scrubby trees at the back of my neighborhood. I walked up covered in burrs and was greeted by Matt McCraney. I think one of the first things I told him was that I didn’t think it was a real crossfit gym, because it didn’t have a pullup bar yet. He explained that they had just moved in and the pullup rig was currently in transit. For the next four years, he was like a big brother to me, a steady mentor who cared for me and managed to be both a friend and a coach. We competed together many times, both as teammates and as coach and athlete, and I’m grateful to have shared the formative experiences with such a great person and leader. Matt helped coach me to get to crossfit regionals, and I included both a link to his gym and a link to an article about that regionals trip at the bottom of the page.&lt;/p&gt;
+
+&lt;p&gt;I’ve been around since before crossfit was a popular workout, and I expect I will still be around if it falls out of popular favor. In my opinion, there is something fundamentally special about crossfit. It provides me a chance to move in a healthy way, in a way that I believe my body developed to move. A perfect squat clean or a series of clean muscles ups is a beautiful thing. It’s timing, it’s grace, it’s strength exercised with control in a manner that is conducive to the way that evolution designed our bodies to move. Crossfit properly implemented is a combination of Cardiovascular and Respiratory endurance, Stamina, Strength, Flexibility, Power, Speed, Coordination, Agility, Balance, and Accuracy. When I move this way, I am rewarded with a feeling of fulfillment, the ability to consistently move in a healthy manner, and a capacity to go out into the world and do what I desire with the tool that is my body. If you are interested in the science behind design of the crossfit plan, I urge you to watch some videos of Greg Glassman, where he discusses his design for a new fitness program circa. 2004 – 2013. Ad hominem discussions aside, I respect his ideas and have found value in their implementation in crossfit gyms.&lt;/p&gt;
+
+&lt;p&gt;Aside from the fitness aspect of crossfit, the program affords me the chance to belong to something bigger than myself. Our gym, Koda Crossfit Norman, recently completed a workout for a former member named Rawson Shephard who took his life from battles with mental health. The workout requires a team to hold a medicine ball off of the ground while completing many other movements. The heavy ball is meant to symbolize the weight of mental health struggles. The workout emphasizes how an individual could never bear the weight the whole time, but through friendship and teamwork, the weight can be supported and shared. It was through ideas like this that I came to appreciate my friends in my gym and how they add fulfillment to my life. I used to have a severe distrust of organizations – political parties, campus groups, religious focus groups, etc. I was talking about this distrust with one of my close friends, and she helped me to see that organizations are how people get things done that are bigger than themselves. She helped to show me that, despite the flaws they sometimes have, organizations can bring people together around an idea, and that can be a very positive force. Koda Crossfit Norman and the larger crossfit group itself are organizations that I am proud to be a part of and that I believe make a positive impact in the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.crossfitbolt.com&#34; target=&#34;_blank&#34;&gt;Crossfit Bolt Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://games.crossfit.com/article/future-now&#34; target=&#34;_blank&#34;&gt;Regionals Article Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.kodacrossfitnorman.com&#34; target=&#34;_blank&#34;&gt;Koda Crossfit Norman Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heart Valve Biaxial Mechanical Testing</title>
+      <link>/project/biax_testing/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/biax_testing/</guid>
+      <description>&lt;p&gt;Four heart valves regulate blood flow through the heart. The mitral and tricuspid valves, or atrioventricular valves, are examined in this project. The mitral valve permits blood flow from the left atrium to the left ventricle but restricts blood flow in the opposite direction; The tricuspid valve serves the same function for blood flow between the right atrium and right ventricle. Degradation and disease can affect these valves, leading to impaired valve function and initializing blood backflow, or &lt;em&gt;regurgitation&lt;/em&gt;. These diseases are often mechanically and structurally based, principally affecting the structure of the heart valve and the mechanical behavior of the valve tissue. Computational modeling has recently been used to better understand how disease-driven mechanical and structural alterations impair valve function. These models rely on accurate material data – i.e., data that describes how the tissue will deform when subjected to mechanical loading. A dearth of this material data exists for the mitral and tricuspid valves. As such, our project focused on obtaining and presenting material data for the leaflets of these heart valves.&lt;/p&gt;
+
+&lt;p&gt;To examine the valve tissue mechanics, we used biaxial testing methods. These methods apply loads in two tissue directions, and are essential for characterization of &lt;em&gt;anisotropic&lt;/em&gt;, or directionally-dependent, tissue mechanics. Because of extensive fiber networks running through the tissue, heart valve leaflets exhibit significant mechanical anisotropy, and as such require testing by biaxial methods. We also used image-based deformation tracking techniques to improve the quality of data obtained and to avoid error from attachment effects (St. Venant effects). Our study captured the anisotropy and nonlinear mechanical response of each of the three leaflets of the tricuspid valve and the two leaflets of the mitral valve. We further examined how the biaxial testing parameters, such as loading rate, testing temperature, and animal donor (pig vs sheep vs lamb heart tissue), affected the observed mechanical response. To complement the mechanical responses observed in our testing, we carried out a brief structural analysis consisting of quantification of the distribution of chordae tendineae within the valves and a histological examination of the layered microstructure of the heart valves. We expect that the data obtained in our study will help researchers to model the healthy heart valves and to eventually provide a model-based tool for prediction of surgical outcomes.&lt;/p&gt;
+
+&lt;p&gt;Our group has also recently performed similar biaxial testing protocols to examine how the mechanical response of the tissue varies throughout the region of the leaflet. This study found significant differences in the mechanical response of the mitral and tricuspid valve leaflets in various regions, with central regions exhibiting a more characteristic anisotropic response and edge regions exhibiting a more isotropic mechanical response. This brief “regional” study has been submitted for publication and will hopefully be accepted for publication by early 2019.&lt;/p&gt;
+
+&lt;p&gt;Through this project, I gained extensive experience with material behavior modeling and tensor representations of deformation and tissue mechanics. Through utilizing image-based strain tracking in our samples, I learned about image tracking and digital image correlation techniques. In our processing of testing data, I performed software development and figure generation in &lt;strong&gt;MATLAB&lt;/strong&gt;. I improved my leadership skills by managing the research team during the data collection, and by ensuring the procedures were uniformly implemented by each member. Finally, I gained valuable writing experience drafting our manuscript, &amp;ldquo;An investigation of the anisotropic mechanical properties and anatomical structure of porcine atrioventricular heart valves.” This manuscript and a talk concerning the content of the project are available below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship at American Fidelity</title>
+      <link>/job_experience/american_fidelity/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/job_experience/american_fidelity/</guid>
+      <description>&lt;p&gt;I wrote code for automation of business processes over the Fall of 2018 at American Fidelity. We used UIPath, a robotic process automation software, to develop software solutions that can save employee time. UIPath provides a platform for graphical programming via drag-and-drop functions and &lt;strong&gt;Visual Basic&lt;/strong&gt; syntax for data handling and variable manipulation. For example, in our current project we are helping an employee on the legal team to convert all client communication records – including pdfs, word documents, transcripts of each phone conversation, and explanation of benefits – into a single pdf file. We use the automation software to sort through the records, delete the repeat documents, use optical character recognition (OCR) to read the client number in each document to ensure there are no misplaced files, and compile the collected records into a pdf. We are also working on a machine learning based project to forward incoming emails to the proper departments. To learn the appropriate algorithm to use for sorting, we are using a machine learning algorithm management software called DataRobot. I am enjoying both projects thus far and am excited to contribute to these and other projects that will save my colleagues time on mindless, repetitive tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship at Northrop Grumman</title>
+      <link>/job_experience/northrop_grumman/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/job_experience/northrop_grumman/</guid>
+      <description>&lt;p&gt;I spent the summer of 2017 working for Northrop Grumman as an Electronics and Payloads Intern in Melbourne, Florida. Although much of the work that I completed over the internship was classified &lt;em&gt;For Official Use Only&lt;/em&gt;, I can share basic details about the assignments. My work over the summer consisted of 3 main assignments: &lt;strong&gt;1.&lt;/strong&gt; Writing &lt;strong&gt;Visual Basic&lt;/strong&gt; code for an employee query macro, &lt;strong&gt;2.&lt;/strong&gt; Decomposing government-issued requirements documents to help guide design and details for a contract bid, and &lt;strong&gt;3.&lt;/strong&gt; Examining communications terminals on existing warfighters for potential use on alternative projects, involving heavy research into the schematics and communications infrastructure of existing warfighters. Through these projects, I also learned about the structure of the large government contractor; I learned how the proposals are bid for by a given team, and how a different team develops the product to meet the requirements. I learned about the extensive regulations that accompany fulfilling contracts filed by the federal government, and about the intensive safety factor in any product designed for the military. I’m thankful to Northrop Grumman for the chance to learn about the aerospace industry from a position within one of the biggest defense contractors in the United States.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wind Tunnel Development</title>
+      <link>/project/wind_tunnel/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/wind_tunnel/</guid>
+      <description>&lt;p&gt;Student aerospace researchers at the University of Oklahoma had a problem. The students needed a quality wind tunnel to test full-scale UAV propeller designs and to serve as a testing ground for model airfoil designs. The University owned various wind tunnels, but each tunnel was an expensive, high-precision instrument that required difficult-to-obtain departmental permission and didn’t permit simple modifications for research purposes. In addition, none of the viable options had a large enough test-section to accommodate the full scale (~18 inch diameter) UAV propellers students had designed. Our professor started a group with $5000 seed funding to build an appropriate wind tunnel for these student research projects.&lt;/p&gt;
+
+&lt;p&gt;To build the desired low-cost and versatile wind tunnel, we started by defining the parameters and constraints of our build. We established the test section size, defined our desired flow velocity in the test section, and used previous articles to examine the diffuser and contraction-angle we would need to help prevent flow delamination and ensure flow uniformity in the test section. We developed simple computer-aided design (CAD) models of various closed and open-loop designs in &lt;strong&gt;Solidworks&lt;/strong&gt;, then used Solidworks flow simulation and other &lt;strong&gt;Computational Fluid Dynamics (CFD)&lt;/strong&gt; tools to examine the predicted flow uniformity in the test section. We selected an open-loop design based on the results of our CFD analyses, then decided on a building material and reinforced our model by adding supporting struts and beams to the design. We used many wood fabrications tools made available through the Innovation Hub at OU, including a &lt;strong&gt;Computer Numerical Control (CNC)&lt;/strong&gt; machine to cut the more complex shapes out of plywood. We employed a modular design to assemble and create the structure, building in sections and transporting the completed sections to the Westheimer airport in Norman, the final location for the tunnel. Once the tunnel was completed and assembled, we used a hot-wire anemometer to gain point-wise flow velocity measurements in the test section as part of our uniformity study. Further details about the building process and the uniformity study are included in the attached conference paper.&lt;/p&gt;
+
+&lt;p&gt;Through this project, I learned how to plan a project by considering both constraints and requirements and developing a project plan to satisfy features in both essential categories. I gained project experience with applying design and analysis tools (CAD and CFD, respectively), and learned to appreciate the value that these tools can contribute to informing design. This project was an excellent chance to employ mechanical engineering design skills and to help build a tool for other to use and appreciate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
