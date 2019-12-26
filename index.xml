@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 -0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Integration of polarized spatial frequency domain imaging (pSFDI) with a biaxial mechanical testing system for quantification of load-dependent collagen architecture in soft collagenous tissues</title>
+      <link>/publication/psfdi_pub/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/psfdi_pub/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modulim</title>
@@ -185,20 +194,6 @@ For an example, the below image shows the analysis for my commute to work for th
       
       <guid>/job_experience/northrop_grumman/</guid>
       <description>&lt;p&gt;I spent the summer of 2017 working for Northrop Grumman as an Electronics and Payloads Intern in Melbourne, Florida. Although much of the work that I completed over the internship was classified &lt;em&gt;For Official Use Only&lt;/em&gt;, I can share basic details about the assignments. My work over the summer consisted of 3 main assignments: &lt;strong&gt;1.&lt;/strong&gt; Writing &lt;strong&gt;Visual Basic&lt;/strong&gt; code for an employee query macro, &lt;strong&gt;2.&lt;/strong&gt; Decomposing government-issued requirements documents to help guide design and details for a contract bid, and &lt;strong&gt;3.&lt;/strong&gt; Examining communications terminals on existing warfighters for potential use on alternative projects, involving heavy research into the schematics and communications infrastructure of existing warfighters. Through these projects, I also learned about the structure of the large government contractor; I learned how the proposals are bid for by a given team, and how a different team develops the product to meet the requirements. I learned about the extensive regulations that accompany fulfilling contracts filed by the federal government, and about the intensive safety factor in any product designed for the military. I’m thankful to Northrop Grumman for the chance to learn about the aerospace industry from a position within one of the biggest defense contractors in the United States.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wind Tunnel Development</title>
-      <link>/project/wind_tunnel/</link>
-      <pubDate>Fri, 07 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/project/wind_tunnel/</guid>
-      <description>&lt;p&gt;Student aerospace researchers at the University of Oklahoma had a problem. The students needed a quality wind tunnel to test full-scale UAV propeller designs and to serve as a testing ground for model airfoil designs. The University owned various wind tunnels, but each tunnel was an expensive, high-precision instrument that required difficult-to-obtain departmental permission and didn’t permit simple modifications for research purposes. In addition, none of the viable options had a large enough test-section to accommodate the full scale (~18 inch diameter) UAV propellers students had designed. Our professor started a group with $5000 seed funding to build an appropriate wind tunnel for these student research projects.&lt;/p&gt;
-
-&lt;p&gt;To build the desired low-cost and versatile wind tunnel, we started by defining the parameters and constraints of our build. We established the test section size, defined our desired flow velocity in the test section, and used previous articles to examine the diffuser and contraction-angle we would need to help prevent flow delamination and ensure flow uniformity in the test section. We developed simple computer-aided design (CAD) models of various closed and open-loop designs in &lt;strong&gt;Solidworks&lt;/strong&gt;, then used Solidworks flow simulation and other &lt;strong&gt;Computational Fluid Dynamics (CFD)&lt;/strong&gt; tools to examine the predicted flow uniformity in the test section. We selected an open-loop design based on the results of our CFD analyses, then decided on a building material and reinforced our model by adding supporting struts and beams to the design. We used many wood fabrications tools made available through the Innovation Hub at OU, including a &lt;strong&gt;Computer Numerical Control (CNC)&lt;/strong&gt; machine to cut the more complex shapes out of plywood. We employed a modular design to assemble and create the structure, building in sections and transporting the completed sections to the Westheimer airport in Norman, the final location for the tunnel. Once the tunnel was completed and assembled, we used a hot-wire anemometer to gain point-wise flow velocity measurements in the test section as part of our uniformity study. Further details about the building process and the uniformity study are included in the attached conference paper.&lt;/p&gt;
-
-&lt;p&gt;Through this project, I learned how to plan a project by considering both constraints and requirements and developing a project plan to satisfy features in both essential categories. I gained project experience with applying design and analysis tools (CAD and CFD, respectively), and learned to appreciate the value that these tools can contribute to informing design. This project was an excellent chance to employ mechanical engineering design skills and to help build a tool for other to use and appreciate.&lt;/p&gt;
 </description>
     </item>
     
