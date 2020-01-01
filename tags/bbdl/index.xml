@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/tags/bbdl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Integration of polarized spatial frequency domain imaging (pSFDI) with a biaxial mechanical testing system for quantification of load-dependent collagen architecture in soft collagenous tissues</title>
+      <link>/publication/psfdi_pub/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/psfdi_pub/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Microstructural Imaging</title>
